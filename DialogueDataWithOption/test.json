@@ -1,0 +1,9 @@
+[
+{"id":0,"hasOptional":false,"optinalId":"-1","characterL":"Pawn","characterR":"COM","isLeftSpeak":true,"text":"测试用对话，第一条","nextId":1},
+{"id":1,"hasOptional":false,"optinalId":"-1","characterL":"Pawn","characterR":"COM","isLeftSpeak":false,"text":"测试用对话，第二条","nextId":2},
+{"id":2,"hasOptional":true,"optinalId":"3,4,5","characterL":"Pawn","characterR":"COM","isLeftSpeak":false,"text":"选项测试用对话","nextId":0},
+{"id":3,"hasOptional":false,"optinalId":"-1","characterL":"None","characterR":"None","isLeftSpeak":false,"text":"选项ID:3","nextId":6},
+{"id":4,"hasOptional":false,"optinalId":"-1","characterL":"None","characterR":"None","isLeftSpeak":false,"text":"选项ID:4","nextId":6},
+{"id":5,"hasOptional":false,"optinalId":"-1","characterL":"None","characterR":"None","isLeftSpeak":false,"text":"选项ID:5","nextId":6},
+{"id":6,"hasOptional":false,"optinalId":"-1","characterL":"Pawn","characterR":"None","isLeftSpeak":true,"text":"选项完毕，点击关闭对话框","nextId":-1}
+]
